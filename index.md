@@ -38,3 +38,27 @@
   </div>
 
 </div>
+
+<footer style="
+  margin-top: 60px;
+  padding: 20px 0;
+  border-top: 1px solid #eee;
+  text-align: center;
+  font-size: 14px;
+  color: #555;
+">
+
+<a href="https://github.com/hefos" target="_blank"
+     style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 8px;"
+     onmouseover="this.style.opacity=0.7"
+     onmouseout="this.style.opacity=1">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         alt="GitHub"
+         width="22">
+
+<span>github.com/hefos</span>
+
+  </a>
+
+</footer>
