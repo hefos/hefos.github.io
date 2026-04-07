@@ -12,12 +12,8 @@
         <strong>I'm Harry, a PhD student at Cardiff University.</strong>
       </p>
       <p>
-        My research focuses on <strong>game theory</strong> and
-        <strong>international climate agreements</strong>, supervised by Prof. Vince Knight.
-      </p>
-      <p>
-        I work on <strong>evolutionary game theory</strong> and its applications to political science,
-        particularly the development and stability of international climate cooperation.
+        My research focuses on <strong>evolutionary game theory</strong>, and particularly it's applications to the creation and stability of
+        <strong>international climate agreements</strong>, supervised by <strong>Prof. Vince Knight </strong>and <strong>Dr Sebastien Krapohl</strong>.
       </p>
     </div>
 
