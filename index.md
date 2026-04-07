@@ -13,7 +13,7 @@
       </p>
       <p>
         My research focuses on <strong>game theory</strong> and
-        <strong>international climate agreements</strong>, supervised by Vince Knight.
+        <strong>international climate agreements</strong>, supervised by Prof. Vince Knight.
       </p>
       <p>
         I work on <strong>evolutionary game theory</strong> and its applications to political science,
