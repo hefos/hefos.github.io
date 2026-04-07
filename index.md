@@ -1,0 +1,40 @@
+<div style="max-width: 900px; margin: auto; font-family: Arial, sans-serif; line-height: 1.6;">
+
+  <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #eee; padding-bottom: 10px;">
+    <h1 style="margin: 0;">Harry Foster</h1>
+    <img src="./images/Cardiff_logo.png" alt="Cardiff University logo" width="70">
+  </div>
+
+  <div style="display: flex; gap: 30px; margin-top: 30px; align-items: center;">
+    
+<div style="flex: 1;">
+      <img src="./images/me.png" alt="Harry Foster" style="width: 100%; max-width: 250px; border-radius: 12px;">
+    </div>
+
+<div style="flex: 2;">
+      <h2 style="margin-top: 0;">Hello!</h2>
+      <p>
+        <strong>I'm Harry, a PhD student at Cardiff University.</strong>
+      </p>
+      <p>
+        My research focuses on <strong>game theory</strong> and
+        <strong>international climate agreements</strong>, supervised by Vince Knight.
+      </p>
+      <p>
+        I work on <strong>evolutionary game theory</strong> and its applications to political science,
+        particularly the development and stability of international climate cooperation.
+      </p>
+    </div>
+
+  </div>
+
+  <hr style="margin: 40px 0;">
+
+  <div>
+    <h3>Software</h3>
+    <p>
+      <code>ludics</code> – A Python library for modelling evolutionary games as Markov chains.
+    </p>
+  </div>
+
+</div>
