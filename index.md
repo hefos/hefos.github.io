@@ -33,7 +33,7 @@
   <div>
     <h3>Software</h3>
     <p>
-      <code>ludics</code> – A Python library for modelling evolutionary games as Markov chains.
+      <a href="https://hefos.github.io/ludics/"><code>ludics</code></a> – A Python library for modelling evolutionary games as Markov chains.
     </p>
   </div>
 
