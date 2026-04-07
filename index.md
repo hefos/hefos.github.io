@@ -1,10 +1,5 @@
 <div style="max-width: 900px; margin: auto; font-family: Arial, sans-serif; line-height: 1.6;">
 
-  <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #eee; padding-bottom: 10px;">
-    <h1 style="margin: 0;">Harry Foster</h1>
-    <img src="./images/Cardiff_logo.png" alt="Cardiff University logo" width="70">
-  </div>
-
   <div style="display: flex; gap: 30px; margin-top: 30px; align-items: center;">
     
 <div style="flex: 1;">
@@ -48,17 +43,19 @@
   color: #555;
 ">
 
-<a href="https://github.com/hefos" target="_blank"
-     style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 8px;"
-     onmouseover="this.style.opacity=0.7"
-     onmouseout="this.style.opacity=1">
+  <div style="display: flex; justify-content: space-between; align-items: center; max-width: 400px; margin: auto;">
+    <!-- GitHub link on the left -->
+    <a href="https://github.com/hefos" target="_blank"
+       style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 8px;"
+       onmouseover="this.style.opacity=0.7"
+       onmouseout="this.style.opacity=1">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+           alt="GitHub"
+           width="22">
+      <span>github.com/hefos</span>
+    </a>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-         alt="GitHub"
-         width="22">
-
-<span>github.com/hefos</span>
-
-  </a>
+<img src="./images/Cardiff_logo.png" alt="Cardiff University logo" width="70">
+  </div>
 
 </footer>
