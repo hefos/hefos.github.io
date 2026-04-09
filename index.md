@@ -9,7 +9,7 @@
 <div style="flex: 2;">
       <h2 style="margin-top: 0;">Hello!</h2>
       <p>
-        <strong>I'm Harry, a PhD student at Cardiff University.</strong>
+        <strong>I'm Harry, a PhD student at <a href=https://profiles.cardiff.ac.uk/staff/fosterh3">Cardiff University</a>.</strong>
       </p>
       <p>
         My research focuses on <strong>evolutionary game theory</strong>, and particularly it's applications to the creation and stability of
@@ -40,7 +40,6 @@
 ">
 
   <div style="display: flex; justify-content: space-between; align-items: center; max-width: 400px; margin: auto;">
-    <!-- GitHub link on the left -->
     <a href="https://github.com/hefos" target="_blank"
        style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 8px;"
        onmouseover="this.style.opacity=0.7"
@@ -50,8 +49,5 @@
            width="22">
       <span>github.com/hefos</span>
     </a>
-
-<img src="./images/Cardiff_logo.png" alt="Cardiff University logo" width="70">
-  </div>
 
 </footer>
