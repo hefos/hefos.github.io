@@ -49,5 +49,3 @@
            width="22">
       <span>github.com/hefos</span>
     </a>
-
-</footer>
