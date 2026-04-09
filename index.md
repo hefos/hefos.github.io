@@ -9,7 +9,7 @@
 <div style="flex: 2;">
       <h2 style="margin-top: 0;">Hello!</h2>
       <p>
-        <strong>I'm Harry, a PhD student at <a href=https://profiles.cardiff.ac.uk/staff/fosterh3">Cardiff University</a>.</strong>
+        <strong>I'm Harry, a PhD student at <a href="https://profiles.cardiff.ac.uk/staff/fosterh3">Cardiff University</a>.</strong>
       </p>
       <p>
         My research focuses on <strong>evolutionary game theory</strong>, and particularly it's applications to the creation and stability of
