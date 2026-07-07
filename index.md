@@ -12,7 +12,7 @@
         <strong>I'm Harry, a PhD student at <a href="https://profiles.cardiff.ac.uk/staff/fosterh3">Cardiff University</a>.</strong>
       </p>
       <p>
-        My research focuses on <strong>evolutionary game theory</strong>, and particularly it's applications to the creation and stability of
+        My research focuses on <strong>evolutionary game theory</strong>, and particularly its applications to the creation and stability of
         <strong>international climate agreements</strong>, supervised by <strong>Prof. Vince Knight </strong>and <strong>Dr Sebastien Krapohl</strong>.
       </p>
     </div>
@@ -51,13 +51,30 @@
   color: #555;
 ">
 
-  <div style="display: flex; justify-content: space-between; align-items: center; max-width: 400px; margin: auto;">
-    <a href="https://github.com/hefos" target="_blank"
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; max-width: 800px; margin: auto;">
+
+    <!-- GitHub -->
+    <a href="https://github.com/hefos" target="_blank" rel="noopener noreferrer"
        style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 8px;"
        onmouseover="this.style.opacity=0.7"
        onmouseout="this.style.opacity=1">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-           alt="GitHub"
-           width="22">
-      <span>github.com/hefos</span>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+             alt="GitHub"
+             width="22">
+        <span>github.com/hefos</span>
     </a>
+
+    <!-- Google Scholar -->
+    <a href="https://scholar.google.com/citations?user=rmzle6UAAAAJ"
+       target="_blank" rel="noopener noreferrer"
+       style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 8px;"
+       onmouseover="this.style.opacity=0.7"
+       onmouseout="this.style.opacity=1">
+        <img src="./images/google-scholar.png"
+             alt="Google Scholar"
+             width="22">
+        <span>Google Scholar</span>
+    </a>
+
+</div>
+</footer>
