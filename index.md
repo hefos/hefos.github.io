@@ -3,7 +3,7 @@
   <div style="display: flex; gap: 30px; margin-top: 30px; align-items: center;">
     
 <div style="flex: 1;">
-      <img src="./images/me.png" alt="Harry Foster" style="width: 100%; max-width: 250px; border-radius: 12px;">
+      <img src="./images/me.jpg" alt="Harry Foster" style="width: 100%; max-width: 250px; border-radius: 12px;">
     </div>
 
 <div style="flex: 2;">
@@ -17,6 +17,18 @@
       </p>
     </div>
 
+  </div>
+
+  <hr style="margin: 40px 0;">
+
+  <div>
+    <h3>Publications</h3>
+    <p>
+      <a href="https://arxiv.org/abs/2606.31740"> The Cooperation Ceiling: Extrinsic Population Dynamics and the Intrinsic Escape</a> – Preprint available, submitted to the Journal of Theoretical Biology July 2026
+    </p>
+    <p>
+      <a href="https://arxiv.org/abs/2605.23513"> Introspection Dynamics with Mutation in Additive Games</a> – Preprint available, submitted to Dynamic Games and Applications June 2026
+    </p>
   </div>
 
   <hr style="margin: 40px 0;">
