@@ -7,7 +7,7 @@
     </div>
 
 <div style="flex: 2;">
-      <h2 style="margin-top: 0;">Hello!</h2>
+      <h2 style="margin-top: 0;">Welcome!</h2>
       <p>
         <strong>I'm Harry, a PhD student at <a href="https://profiles.cardiff.ac.uk/staff/fosterh3">Cardiff University</a>.</strong>
       </p>
@@ -27,7 +27,7 @@
       <a href="https://arxiv.org/abs/2606.31740"> The Cooperation Ceiling: Extrinsic Population Dynamics and the Intrinsic Escape</a> – Preprint available, submitted to the Journal of Theoretical Biology July 2026
     </p>
     <p>
-      <a href="https://arxiv.org/abs/2605.23513"> Introspection Dynamics with Mutation in Additive Games</a> – Preprint available, submitted to Dynamic Games and Applications June 2026
+      <a href="https://link.springer.com/article/10.1007/s13235-026-00715-0"> Introspection Dynamics with Mutation in Additive Games</a> – Published to Dynamic Games and Applications, August 2026 
     </p>
   </div>
 
