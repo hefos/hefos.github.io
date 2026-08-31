@@ -27,7 +27,7 @@
       <a href="https://arxiv.org/abs/2606.31740"> The Cooperation Ceiling: Extrinsic Population Dynamics and the Intrinsic Escape</a> – Preprint available, submitted to the Journal of Theoretical Biology July 2026
     </p>
     <p>
-      <a href="https://link.springer.com/article/10.1007/s13235-026-00715-0"> Introspection Dynamics with Mutation in Additive Games</a> – Published to Dynamic Games and Applications, August 2026 
+      <a href="https://link.springer.com/article/10.1007/s13235-026-00715-0"> Introspection Dynamics with Mutation in Additive Games</a> – Published in Dynamic Games and Applications, August 2026 
     </p>
   </div>
 
